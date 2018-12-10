@@ -1,9 +1,5 @@
-## This is bio helper module.
-
-Bio helps you write pages quickly.
-
-**See bio: https://github.com/weidian-inc/bio-cli**
+## This is quit-cli scaffold helper
 
 ## LICENSE
 
-BSD
+MIT
